@@ -28,5 +28,6 @@ This project focuses on predicting air pollution levels (PM2.5) using machine le
 ## Installation
 1. Clone the repository:
    ```bash
-   git clone [<repository-url>](https://github.com/irakozej/Time-Series-Forecasting-copy.git)
+   git clone https://github.com/irakozej/Time-Series-Forecasting-copy.git
+
 
