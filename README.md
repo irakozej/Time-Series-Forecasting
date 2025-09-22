@@ -52,8 +52,9 @@ This project focuses on predicting air pollution levels (PM2.5) using machine le
 
 **Conclusion**
 
-Random Forest outperformed Linear Regression on training data.
+  - Random Forest outperformed Linear Regression on training data.
 
-The final submission uses predictions from the Random Forest model.
+  - The final submission uses predictions from the Random Forest model.
 
-This workflow provides a clear pipeline from data preprocessing to model evaluation and submission.
+  - This workflow provides a clear pipeline from data preprocessing to model evaluation and submission.
+
