@@ -31,3 +31,29 @@ This project focuses on predicting air pollution levels (PM2.5) using machine le
    git clone https://github.com/irakozej/Time-Series-Forecasting-copy.git
 
 
+**Usage**
+  - Run the notebook Air_Quality_Forecasting.ipynb cell by cell.
+
+  - After training and evaluation, a submission file submission.csv will be generated.
+
+  - Submit submission.csv to Kaggle for evaluation.
+
+**Metrics**
+
+  - The models were evaluated using:
+
+  - Mean Squared Error (MSE)
+
+  - Root Mean Squared Error (RMSE)
+
+  - Mean Absolute Error (MAE)
+
+  - R² Score
+
+**Conclusion**
+
+Random Forest outperformed Linear Regression on training data.
+
+The final submission uses predictions from the Random Forest model.
+
+This workflow provides a clear pipeline from data preprocessing to model evaluation and submission.
